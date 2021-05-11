@@ -13,7 +13,7 @@ class Factory
             self::createHttpClient(),
             'test',
             '12345',
-            'https://eis3skveaa.api.quickmocker.com',
+            'http://testapi.ru',
         );
     }
 
