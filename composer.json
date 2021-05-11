@@ -1,0 +1,14 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Service\\": "Service",
+            "Application\\": "Application"
+        }
+    },
+    "name": "glebevgenov/hotmaps-test-task",
+    "description": ""
+}
